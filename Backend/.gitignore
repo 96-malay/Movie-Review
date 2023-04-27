@@ -35,3 +35,5 @@ build/
 ### Env Files ###
 .env
 .env.example
+
+.DS_Store
